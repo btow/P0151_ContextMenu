@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">P0151_ContextMenu</string>
+    <string name="text_color">Text color</string>
+    <string name="text_size">Text size</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="size_22">22</string>
+    <string name="size_26">26</string>
+    <string name="size_30">30</string>
+    <string name="text_color_red">Text color = Red</string>
+    <string name="text_color_green">Text color = green</string>
+    <string name="text_color_blue">Text color = Blue</string>
+    <string name="text_size_22">Text size = 22</string>
+    <string name="text_size_26">Text size = 26</string>
+    <string name="text_size_30">Text size = 30</string>
 </resources>
